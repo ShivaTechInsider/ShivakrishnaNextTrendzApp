@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.checkOutBtn {
+  background-color: #0b69ff;
+  width: 150px;
+  border-width: 0px;
+  border-radius: 8px;
+  color: #ffffff;
+  padding: 10px;
+  cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.billBgContainer {
+  padding: 10px;
+}
+.headingsContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.itemheadStyle {
+  font-size: 23px;
+}
+.itemsDescContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.itemDescPara {
+  font-size: 20px;
+  margin: 10px;
+}
+.totalPrice {
+  text-align: right;
+}
